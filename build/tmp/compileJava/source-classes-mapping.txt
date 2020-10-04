@@ -1,0 +1,11 @@
+devy/pdf/cropper/core/PDFCreator.java
+ devy.pdf.cropper.core.PDFCreator
+devy/pdf/cropper/core/ImageExtractResult.java
+ devy.pdf.cropper.core.ImageExtractResult
+devy/pdf/cropper/core/ImageExtractor.java
+ devy.pdf.cropper.core.ImageExtractor
+devy/pdf/cropper/core/ImageCropper.java
+ devy.pdf.cropper.core.ImageCropper
+ devy.pdf.cropper.core.ImageCropper$1
+devy/pdf/cropper/core/PDFCropper.java
+ devy.pdf.cropper.core.PDFCropper
